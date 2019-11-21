@@ -1,0 +1,24 @@
+{
+  "name": "dev_server",
+  "version": "1.0.0",
+  "description": "learn backend deverlop by kk",
+  "main": "app.js",
+  "scripts": {
+    "start":"naodemon node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-KK0712/backend_server_Dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MR-KK0712/backend_server_Dev/issues"
+  },
+  "homepage": "https://github.com/MR-KK0712/backend_server_Dev#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.0"
+  }
+}
